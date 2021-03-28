@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+C:\Users\ricky\source\repos\2.4 oop\2.4 oop\Matrix.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Source.cpp
+C:\Users\ricky\source\repos\2.4 oop\2.4 oop\Source.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  2.4 oop.vcxproj -> C:\Users\ricky\source\repos\2.4 oop\Debug\2.4 oop.exe

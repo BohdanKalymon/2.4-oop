@@ -1,0 +1,4 @@
+﻿  34454.cpp
+C:\Users\ricky\source\repos\2.4 oop\34454\34454.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+     Creating library C:\Users\ricky\source\repos\2.4 oop\Debug\34454.lib and object C:\Users\ricky\source\repos\2.4 oop\Debug\34454.exp
+  34454.vcxproj -> C:\Users\ricky\source\repos\2.4 oop\Debug\34454.dll
